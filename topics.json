@@ -1,0 +1,24 @@
+[
+    {
+        "level": "🟢",
+        "topic": "Introduction to JavaScript",
+        "subTopics": [
+            {
+                "topic": "What is JavaScript?",
+                "level": "🟢"
+            },
+            {
+                "topic": "History of JavaScript",
+                "level": "🟢"
+            },
+            {
+                "topic": "Javascript Versions",
+                "level": "🟢"
+            },
+            {
+                "topic": "How to run Javascript",
+                "level": "🟢"
+            }
+        ]
+    }
+]
